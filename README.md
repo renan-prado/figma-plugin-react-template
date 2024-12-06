@@ -22,4 +22,6 @@ Run development mode:
 npm run dev
 ```
 
-> Open Figma → Plugins → Development → Import plugin from manifest... and choose manifest.json file from this repo.
+To test your plugin in Figma do:
+
+> Open **Figma** → **Plugins** → **Development** → **Import plugin from manifest...** and choose **manifest.json** file from this repo.
