@@ -32,6 +32,9 @@ To test your plugin in Figma do:
 
 The application is separated by `app` and `plugin`. The `app` is responsible for the entire **UI** part and the `plugin` for all interaction with [Figma`s APIs](https://www.figma.com/plugin-docs/api/api-overview/).
 
+![image](https://github.com/user-attachments/assets/710a306f-1695-465a-b913-61877d7f0d41)
+
+
 ## Communication between App (UI) and Plugin (controller)
 
 The `app` and the `plugin` are separated as if they were `frontend` and `backend`. Each one has a different context and responsibilities. And communication between them is the key to a sophisticated custom plugin.
