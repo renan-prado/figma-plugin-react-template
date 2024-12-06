@@ -27,3 +27,7 @@ To test your plugin in Figma do:
 > Open **Figma** → **Plugins** → **Development** → **Import plugin from manifest...** and choose **manifest.json** file from this repo.
 
 ![image](https://github.com/user-attachments/assets/a763a67d-8d9f-4919-98bb-46c698192e18)
+
+## Credits
+
+> This template was inspired by the template created by [nirsky](https://github.com/nirsky) in the [Figma Plugin React Template](https://github.com/nirsky/figma-plugin-react-template) repository
