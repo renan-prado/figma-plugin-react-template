@@ -2,22 +2,24 @@
 
 ![figma-react](https://github.com/user-attachments/assets/cdb3e14f-2ecf-4d37-9fe3-8d83b6bf7f14)
 
-This template contains the react example as shown on [Figma Docs](https://www.figma.com/plugin-docs/intro/), with some structural changes and extra tooling.
+This template contains the basic structure for developing a Figma plugin with React and Typescript.
+
+Some hooks and utilities have been added to the template to make it easier to manage the plugin with React.
+
+To learn about the development possibilities, take a look at [Figma API Overview](https://www.figma.com/plugin-docs/api/api-overview/) and learn more about the library.
 
 ## Quickstart
 
-- Run `yarn` to install dependencies.
-- Run `yarn build:watch` to start webpack in watch mode.
-- Open `Figma` -> `Plugins` -> `Development` -> `Import plugin from manifest...` and choose `manifest.json` file from this repo.
+Installation:
 
-⭐ To change the UI of your plugin (the react code), start editing [App.tsx](./src/app/components/App.tsx).  
-⭐ To interact with the Figma API edit [controller.ts](./src/plugin/controller.ts).  
-⭐ Read more on the [Figma API Overview](https://www.figma.com/plugin-docs/api/api-overview/).
+```shell
+npm install
+```
 
-## Toolings
+Run development mode:
 
-This repo is using:
+```shell
+npm run dev
+```
 
-- React + Webpack
-- TypeScript
-- Prettier precommit hook
+> Open Figma → Plugins → Development → Import plugin from manifest... and choose manifest.json file from this repo.
