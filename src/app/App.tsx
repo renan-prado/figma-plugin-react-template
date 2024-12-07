@@ -13,7 +13,7 @@ function App() {
   console.log('Controller response: ', message?.say);
 
   return (
-    <div>
+    <div className="bg-orange-400">
       <button onClick={sayToController}>Say Hello to controller</button>
     </div>
   );
