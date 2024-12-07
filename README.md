@@ -1,6 +1,6 @@
 # Figma Plugin with React and Tailwind Template
 
-![figma-react](https://github.com/user-attachments/assets/cdb3e14f-2ecf-4d37-9fe3-8d83b6bf7f14)
+![figma-react-tailwind](https://github.com/user-attachments/assets/4a110be7-2fac-44d3-870c-e5b95ed7a230)
 
 This template contains the basic structure for developing a Figma plugin with React and Typescript.
 
