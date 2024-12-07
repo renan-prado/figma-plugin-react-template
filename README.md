@@ -1,4 +1,4 @@
-# Figma Plugin React Template
+# Figma Plugin with React and Tailwind Template
 
 ![figma-react](https://github.com/user-attachments/assets/cdb3e14f-2ecf-4d37-9fe3-8d83b6bf7f14)
 
