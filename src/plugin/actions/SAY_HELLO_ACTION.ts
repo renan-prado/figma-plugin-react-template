@@ -14,4 +14,4 @@ function main({ say }: HelloPayload) {
 }
 
 // Export the action as default
-export default createActionHandler<HelloPayload>('say-hello-to-controller', main);
+export default createActionHandler('say-hello-to-controller', main);
